@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kshitizpathak2000
+- 👋 Hi, I’m KSHITIZ PATHAK 
 - 👀 I’m interested in Python programming ,Machine Learning,Deep Leraning,robotics,Iot
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on machine learning ,IOT,robotics.
