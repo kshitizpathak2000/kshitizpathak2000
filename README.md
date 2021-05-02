@@ -1,7 +1,5 @@
-- 👋 Hi, I’m KSHITIZ PATHAK 
-- 👀 I’m interested in Python programming ,Machine Learning,Deep Leraning,robotics,Iot
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on machine learning ,IOT,robotics.
+Hi,KSHITIZ PATHAK here .Interested in Python programming ,Machine Learning,Deep Leraning,Robotics,Iot.I’m currently learning Machine learning.I’m looking to collaborate on machine learning and deep learning .Curreently working on some cool ML projects.
+
 
 <!---
 kshitizpathak2000/kshitizpathak2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
