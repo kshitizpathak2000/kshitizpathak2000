@@ -1,4 +1,7 @@
-Hi,KSHITIZ PATHAK here .Interested in Python programming ,Machine Learning,Deep Leraning,Robotics,Iot.I’m currently learning Machine learning.I’m looking to collaborate on machine learning and deep learning .Curreently working on some cool ML projects.
+## Hi, KSHITIZ PATHAK 
+
+Machine Learning | Computer Vision | Deep Learning 
+
 
 
 <!---
